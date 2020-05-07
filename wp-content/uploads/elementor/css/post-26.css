@@ -1,26 +1,20 @@
 .elementor-26 .elementor-element.elementor-element-57b123c:not(.elementor-motion-effects-element-type-background), .elementor-26 .elementor-element.elementor-element-57b123c > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-57b123c {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 5% 5% 5%;}
+.elementor-26 .elementor-element.elementor-element-57b123c {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: -6%;margin-bottom: 6%;padding: 5% 5% 5% 5%;}
 .elementor-26 .elementor-element.elementor-element-57b123c > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-26 .elementor-element.elementor-element-1e19ee9 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
 .elementor-26 .elementor-element.elementor-element-a9bec3c {text-align: left;}
 .elementor-26 .elementor-element.elementor-element-a9bec3c .elementor-heading-title {color: #e93a43;font-size: 50px;line-height: 1.2em;}
 .elementor-26 .elementor-element.elementor-element-a9bec3c > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0% 0% 5% 0%;}
+.elementor-26 .elementor-element.elementor-element-5cfbb70 {text-align: left;}
+.elementor-26 .elementor-element.elementor-element-5cfbb70 .elementor-heading-title {color: #e93a43;font-size: 50px;line-height: 1.2em;}
+.elementor-26 .elementor-element.elementor-element-5cfbb70 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0% 0% 5% 0%;}
 .elementor-26 .elementor-element.elementor-element-70c0052 .elementor-heading-title {color: #e93a43;}
-.elementor-26 .elementor-element.elementor-element-00c34cc {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 0% 5% 0%;}
-.elementor-26 .elementor-element.elementor-element-00c34cc > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-240621c > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
-.elementor-26 .elementor-element.elementor-element-240621c > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
-.elementor-26 .elementor-element.elementor-element-240621c > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-006a949 {text-align: center;z-index: 1;}
-.elementor-26 .elementor-element.elementor-element-006a949 .elementor-heading-title {color: #54595f;font-family: "Riccione Serial",Sans-serif;font-size: 48px;font-weight: 900;}
-.elementor-26 .elementor-element.elementor-element-7e47eaa {margin-top: -20px;margin-bottom: 0px;}
-.elementor-26 .elementor-element.elementor-element-695be9f > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
-.elementor-26 .elementor-element.elementor-element-0da39e6 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
-.elementor-26 .elementor-element.elementor-element-f3696d3 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 5% 5% 5%;}
+.elementor-26 .elementor-element.elementor-element-70c0052 > .elementor-widget-container {margin: 0px 0px 0px 60px;}
+.elementor-26 .elementor-element.elementor-element-f3696d3 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 5%;margin-bottom: 0%;padding: 5% 5% 5% 5%;}
 .elementor-26 .elementor-element.elementor-element-f3696d3 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-26 .elementor-element.elementor-element-533cbd9 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
 .elementor-26 .elementor-element.elementor-element-24ae5ee {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-24ae5ee .elementor-heading-title {color: #54595f;font-family: "Riccione Serial",Sans-serif;font-size: 48px;font-weight: bold;}
+.elementor-26 .elementor-element.elementor-element-24ae5ee .elementor-heading-title {color: #4c393d;font-family: "Riccione Serial",Sans-serif;font-size: 48px;font-weight: bold;}
 .elementor-26 .elementor-element.elementor-element-24ae5ee > .elementor-widget-container {padding: 0% 0% 5% 5%;}
 .elementor-26 .elementor-element.elementor-element-6cab36c {margin-top: 0px;margin-bottom: 40px;padding: 0% 0% 0% 0%;}
 .elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-8857d84.elementor-column .elementor-column-wrap {align-items: center;}
@@ -142,18 +136,30 @@
 .elementor-26 .elementor-element.elementor-element-3e8b956 > .elementor-widget-container {margin: 15px 0px 15px 0px;padding: 0px 0px 0px 0px;}
 .elementor-26 .elementor-element.elementor-element-69ef741 .elementor-heading-title {color: #373737;font-family: "Aileron",Sans-serif;font-size: 14px;}
 .elementor-26 .elementor-element.elementor-element-69ef741 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+.elementor-26 .elementor-element.elementor-element-00c34cc {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 0% 5% 0%;}
+.elementor-26 .elementor-element.elementor-element-00c34cc > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-240621c > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
+.elementor-26 .elementor-element.elementor-element-240621c > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-26 .elementor-element.elementor-element-240621c > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-006a949 {text-align: center;z-index: 1;}
+.elementor-26 .elementor-element.elementor-element-006a949 .elementor-heading-title {color: #4c393d;font-family: "Riccione Serial",Sans-serif;font-size: 48px;font-weight: 900;}
+.elementor-26 .elementor-element.elementor-element-7e47eaa {margin-top: -20px;margin-bottom: 0px;}
+.elementor-26 .elementor-element.elementor-element-695be9f > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
+.elementor-26 .elementor-element.elementor-element-0da39e6 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
 .elementor-26 .elementor-element.elementor-element-2853b1c {padding: 5% 5% 5% 5%;}
 .elementor-26 .elementor-element.elementor-element-1608769 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
-.elementor-26 .elementor-element.elementor-element-505a1f5 {text-align: center;z-index: 1;}
-.elementor-26 .elementor-element.elementor-element-505a1f5 .elementor-heading-title {color: #54595f;font-family: "Riccione Serial",Sans-serif;font-size: 48px;font-weight: bold;}
-.elementor-26 .elementor-element.elementor-element-505a1f5 > .elementor-widget-container {padding: 0% 0% 0% 0%;}
 .elementor-26 .elementor-element.elementor-element-db6c1be {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0%;margin-bottom: 0%;padding: 40px 40px 40px 40px;}
 .elementor-26 .elementor-element.elementor-element-db6c1be > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-26 .elementor-element.elementor-element-17d7d66:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-17d7d66 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
 .elementor-26 .elementor-element.elementor-element-17d7d66 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
 .elementor-26 .elementor-element.elementor-element-17d7d66 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-4615bd2 {color: #9a1b26;}
+.elementor-26 .elementor-element.elementor-element-505a1f5 {text-align: center;z-index: 1;}
+.elementor-26 .elementor-element.elementor-element-505a1f5 .elementor-heading-title {color: #4c393d;font-family: "Riccione Serial",Sans-serif;font-size: 48px;font-weight: bold;}
+.elementor-26 .elementor-element.elementor-element-505a1f5 > .elementor-widget-container {margin: -3% 0% 0% 0%;padding: 0% 0% 0% 0%;}
+.elementor-26 .elementor-element.elementor-element-4615bd2 {color: #4c393d;}
 .elementor-26 .elementor-element.elementor-element-4615bd2 > .elementor-widget-container {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-b71efee > .elementor-container {min-height: 80vh;}
+.elementor-26 .elementor-element.elementor-element-b71efee > .elementor-container:after {content: "";min-height: inherit;}
 .elementor-26 .elementor-element.elementor-element-b71efee:not(.elementor-motion-effects-element-type-background), .elementor-26 .elementor-element.elementor-element-b71efee > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://dev-rrhi-ar-2019.sites.techops.ph/annualreport2019/wp-content/uploads/2020/05/background-02.png");background-position: top left;background-repeat: no-repeat;background-size: cover;}
 .elementor-26 .elementor-element.elementor-element-b71efee {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 5% 5% 5%;}
 .elementor-26 .elementor-element.elementor-element-b71efee > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
@@ -167,31 +173,37 @@
 .elementor-26 .elementor-element.elementor-element-46eea91 .elementor-divider {text-align: center;padding-top: 15px;padding-bottom: 15px;}
 .elementor-26 .elementor-element.elementor-element-46eea91 > .elementor-widget-container {padding: 0% 0% 0% 0%;}
 .elementor-26 .elementor-element.elementor-element-d987ca2 .elementor-spacer-inner {height: 150px;}
-.elementor-26 .elementor-element.elementor-element-1d8764a {padding: 5% 5% 5% 5%;}
-.elementor-26 .elementor-element.elementor-element-b57ca7e > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
 .elementor-26 .elementor-element.elementor-element-a01f23d {margin-top: 0px;margin-bottom: 0px;padding: 5% 10% 5% 10%;}
 .elementor-26 .elementor-element.elementor-element-528a04a {color: #e93a43;font-size: 18px;}
 .elementor-26 .elementor-element.elementor-element-528a04a > .elementor-widget-container {padding: 0% 10% 0% 10%;}
+.elementor-26 .elementor-element.elementor-element-fa0143e:not(.elementor-motion-effects-element-type-background), .elementor-26 .elementor-element.elementor-element-fa0143e > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://dev-rrhi-ar-2019.sites.techops.ph/annualreport2019/wp-content/uploads/2020/04/bg-1-e1588573237335.png");background-position: 60vw 0px;background-repeat: repeat-y;background-size: contain;}
+.elementor-26 .elementor-element.elementor-element-fa0143e {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 5% 5% 5%;}
+.elementor-26 .elementor-element.elementor-element-fa0143e > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-26 .elementor-element.elementor-element-4bf54b1 {padding: 0px 0px 0px 0px;}
 .elementor-26 .elementor-element.elementor-element-e73a114 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
 .elementor-26 .elementor-element.elementor-element-e73a114 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-26 .elementor-element.elementor-element-6d82369 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-6d82369 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-26 .elementor-element.elementor-element-d476dd6 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-d476dd6 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-26 .elementor-element.elementor-element-6066cb9 {color: #e93a43;font-family: "Aileron",Sans-serif;font-size: 14px;line-height: 2em;}
+.elementor-26 .elementor-element.elementor-element-6066cb9 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-26 .elementor-element.elementor-element-eb796ca {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-eb796ca > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-26 .elementor-element.elementor-element-c070e13 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-c070e13 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
 .elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-206a840.elementor-column .elementor-column-wrap {align-items: center;}
 .elementor-26 .elementor-element.elementor-element-206a840.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
 .elementor-26 .elementor-element.elementor-element-206a840 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
-.elementor-26 .elementor-element.elementor-element-79e7bd6 {text-align: right;}
-.elementor-26 .elementor-element.elementor-element-00eff68 {text-align: right;}
-.elementor-26 .elementor-element.elementor-element-334fdd4 {text-align: right;}
+.elementor-26 .elementor-element.elementor-element-86aefb5:not(.elementor-motion-effects-element-type-background), .elementor-26 .elementor-element.elementor-element-86aefb5 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://dev-rrhi-ar-2019.sites.techops.ph/annualreport2019/wp-content/uploads/2020/04/bg-1-e1588573237335.png");background-position: -65vw 0px;background-repeat: repeat-y;background-size: contain;}
+.elementor-26 .elementor-element.elementor-element-86aefb5 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 30px;margin-bottom: 0px;padding: 5% 5% 5% 5%;}
+.elementor-26 .elementor-element.elementor-element-86aefb5 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-26 .elementor-element.elementor-element-8bafe53 {margin-top: 0px;margin-bottom: 0px;padding: 0px 0px 0px 0px;}
 .elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-3952dd1.elementor-column .elementor-column-wrap {align-items: center;}
 .elementor-26 .elementor-element.elementor-element-3952dd1.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
 .elementor-26 .elementor-element.elementor-element-3952dd1 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
 .elementor-26 .elementor-element.elementor-element-3952dd1 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
 .elementor-26 .elementor-element.elementor-element-3952dd1 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-7d462bb {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-6ff5397 {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-cd62ed5 {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-5570856 {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-3263ed7 {text-align: left;}
 .elementor-26 .elementor-element.elementor-element-08ff607 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
 .elementor-26 .elementor-element.elementor-element-08ff607 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
 .elementor-26 .elementor-element.elementor-element-61c5ab7 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0%;margin-bottom: 0%;padding: 40px 40px 40px 40px;}
@@ -201,196 +213,197 @@
 .elementor-26 .elementor-element.elementor-element-e66a8de > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-26 .elementor-element.elementor-element-1cf5a13 {color: #9a1b26;}
 .elementor-26 .elementor-element.elementor-element-1cf5a13 > .elementor-widget-container {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-26113ab:not(.elementor-motion-effects-element-type-background), .elementor-26 .elementor-element.elementor-element-26113ab > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://dev-rrhi-ar-2019.sites.techops.ph/annualreport2019/wp-content/uploads/2020/04/bg-1-e1588573237335.png");background-position: 60vw 0px;background-repeat: repeat-y;background-size: contain;}
+.elementor-26 .elementor-element.elementor-element-26113ab {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 5% 5% 5%;}
+.elementor-26 .elementor-element.elementor-element-26113ab > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-26 .elementor-element.elementor-element-2d1077a {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
 .elementor-26 .elementor-element.elementor-element-2d1077a > .elementor-widget-container {padding: 0% 20% 0% 20%;}
 .elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-634e1de.elementor-column .elementor-column-wrap {align-items: center;}
 .elementor-26 .elementor-element.elementor-element-634e1de.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
 .elementor-26 .elementor-element.elementor-element-634e1de > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
+.elementor-26 .elementor-element.elementor-element-1d8764a:not(.elementor-motion-effects-element-type-background), .elementor-26 .elementor-element.elementor-element-1d8764a > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://dev-rrhi-ar-2019.sites.techops.ph/annualreport2019/wp-content/uploads/2020/04/bg-1-e1588573237335.png");background-position: -65vw 0px;background-repeat: repeat-y;background-size: contain;}
+.elementor-26 .elementor-element.elementor-element-1d8764a {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 30px;margin-bottom: 0px;padding: 5% 5% 5% 5%;}
+.elementor-26 .elementor-element.elementor-element-1d8764a > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-b57ca7e > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
 .elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-b2c8d4e.elementor-column .elementor-column-wrap {align-items: center;}
 .elementor-26 .elementor-element.elementor-element-b2c8d4e.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
 .elementor-26 .elementor-element.elementor-element-b2c8d4e > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
 .elementor-26 .elementor-element.elementor-element-b2c8d4e > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
 .elementor-26 .elementor-element.elementor-element-b2c8d4e > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-a73da8d {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-1a8ff96 {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-600c18e {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-b1773ee {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-0db90fb {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-ca512ee {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-dbe2ea9 {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-c84b5e7 {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-85ce950 {text-align: left;}
 .elementor-26 .elementor-element.elementor-element-7bde692 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
 .elementor-26 .elementor-element.elementor-element-7bde692 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
-.elementor-26 .elementor-element.elementor-element-0c0613a {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
-.elementor-26 .elementor-element.elementor-element-0c0613a > .elementor-widget-container {padding: 0% 20% 0% 20%;}
-.elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-ea80fae.elementor-column .elementor-column-wrap {align-items: center;}
-.elementor-26 .elementor-element.elementor-element-ea80fae.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
-.elementor-26 .elementor-element.elementor-element-ea80fae > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
-.elementor-26 .elementor-element.elementor-element-695e4da > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
-.elementor-26 .elementor-element.elementor-element-695e4da > .elementor-element-populated {margin: -25% 0% 0% 0%;}
-.elementor-26 .elementor-element.elementor-element-677eb8f {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
-.elementor-26 .elementor-element.elementor-element-677eb8f > .elementor-widget-container {padding: 0% 20% 0% 20%;}
-.elementor-26 .elementor-element.elementor-element-f5227c5 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0%;margin-bottom: 0%;padding: 40px 40px 40px 40px;}
-.elementor-26 .elementor-element.elementor-element-f5227c5 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-f978642:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-f978642 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-f978642 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
-.elementor-26 .elementor-element.elementor-element-f978642 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-033318e .elementor-text-editor {text-align: center;}
-.elementor-26 .elementor-element.elementor-element-033318e {color: #9a1b26;}
-.elementor-26 .elementor-element.elementor-element-c57e007 .elementor-text-editor {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-c57e007 {color: #e93a43;font-style: italic;}
-.elementor-26 .elementor-element.elementor-element-62a6217 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
-.elementor-26 .elementor-element.elementor-element-e6b61bf {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
-.elementor-26 .elementor-element.elementor-element-e6b61bf > .elementor-widget-container {padding: 0% 20% 0% 20%;}
-.elementor-26 .elementor-element.elementor-element-7d780b2 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
-.elementor-26 .elementor-element.elementor-element-7d780b2 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-0103969 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
-.elementor-26 .elementor-element.elementor-element-0103969 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
-.elementor-26 .elementor-element.elementor-element-78cf849:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-78cf849 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-78cf849 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 15% 15% 15% 15%;}
-.elementor-26 .elementor-element.elementor-element-78cf849 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-4167f66 .elementor-text-editor {text-align: center;}
-.elementor-26 .elementor-element.elementor-element-4167f66 {color: #9a1b26;}
-.elementor-26 .elementor-element.elementor-element-c638dd0 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
-.elementor-26 .elementor-element.elementor-element-c638dd0 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
-.elementor-26 .elementor-element.elementor-element-39764de:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-39764de > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-39764de > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 15% 15% 15% 15%;}
-.elementor-26 .elementor-element.elementor-element-39764de > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-fd62960 .elementor-text-editor {text-align: center;}
-.elementor-26 .elementor-element.elementor-element-fd62960 {color: #9a1b26;}
-.elementor-26 .elementor-element.elementor-element-592dee6 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
-.elementor-26 .elementor-element.elementor-element-592dee6 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
-.elementor-26 .elementor-element.elementor-element-fa8f2a0:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-fa8f2a0 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-fa8f2a0 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 15% 15% 15% 15%;}
-.elementor-26 .elementor-element.elementor-element-fa8f2a0 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-12c8ab6 .elementor-text-editor {text-align: center;}
-.elementor-26 .elementor-element.elementor-element-12c8ab6 {color: #9a1b26;}
-.elementor-26 .elementor-element.elementor-element-9f3148c {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
-.elementor-26 .elementor-element.elementor-element-9f3148c > .elementor-widget-container {padding: 0% 20% 0% 20%;}
-.elementor-26 .elementor-element.elementor-element-ce96c61:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-ce96c61 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-ce96c61 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 15% 15% 15% 15%;}
-.elementor-26 .elementor-element.elementor-element-ce96c61 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-869fbda .elementor-text-editor {text-align: center;}
-.elementor-26 .elementor-element.elementor-element-869fbda {color: #9a1b26;}
-.elementor-26 .elementor-element.elementor-element-2b3d9f1 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
-.elementor-26 .elementor-element.elementor-element-2b3d9f1 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
-.elementor-26 .elementor-element.elementor-element-51d89c3 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
-.elementor-26 .elementor-element.elementor-element-51d89c3 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
-.elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-3439f0a.elementor-column .elementor-column-wrap {align-items: center;}
-.elementor-26 .elementor-element.elementor-element-3439f0a.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
-.elementor-26 .elementor-element.elementor-element-3439f0a > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
-.elementor-26 .elementor-element.elementor-element-3439f0a > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
-.elementor-26 .elementor-element.elementor-element-3439f0a > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-55c3215 {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-72f4e42 {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-0a4a285 {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-5d1ee8e {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-024786f {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-8fb2955 {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-10f52c8 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
-.elementor-26 .elementor-element.elementor-element-10f52c8 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
-.elementor-26 .elementor-element.elementor-element-7c498fc {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0%;margin-bottom: 0%;padding: 40px 40px 40px 40px;}
-.elementor-26 .elementor-element.elementor-element-7c498fc > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-539009d:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-539009d > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-539009d > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 10% 5% 5%;}
-.elementor-26 .elementor-element.elementor-element-539009d > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-4f73058 .elementor-heading-title {color: #9a1b26;font-family: "Aileron Black",Sans-serif;font-size: 20px;font-weight: bold;}
-.elementor-26 .elementor-element.elementor-element-eebdfaa {color: #54595f;}
-.elementor-26 .elementor-element.elementor-element-d148670 .elementor-text-editor {text-align: center;}
-.elementor-26 .elementor-element.elementor-element-d148670 {color: #9a1b26;}
-.elementor-26 .elementor-element.elementor-element-4b86463 .elementor-text-editor {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-4b86463 {color: #e93a43;font-style: italic;}
-.elementor-26 .elementor-element.elementor-element-5244e20 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0%;margin-bottom: 0%;padding: 40px 40px 40px 40px;}
-.elementor-26 .elementor-element.elementor-element-5244e20 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-bb726ec:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-bb726ec > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-bb726ec > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 10% 5% 5%;}
-.elementor-26 .elementor-element.elementor-element-bb726ec > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-876512d .elementor-heading-title {color: #9a1b26;font-family: "Aileron Black",Sans-serif;font-size: 20px;font-weight: bold;}
-.elementor-26 .elementor-element.elementor-element-0081967 {color: #54595f;}
-.elementor-26 .elementor-element.elementor-element-b4b35d5 .elementor-text-editor {text-align: center;}
-.elementor-26 .elementor-element.elementor-element-b4b35d5 {color: #9a1b26;}
-.elementor-26 .elementor-element.elementor-element-201841c .elementor-text-editor {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-201841c {color: #e93a43;font-style: italic;}
-.elementor-26 .elementor-element.elementor-element-c17a926 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0%;margin-bottom: 0%;padding: 40px 40px 40px 40px;}
-.elementor-26 .elementor-element.elementor-element-c17a926 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-a12cb0e:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-a12cb0e > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-a12cb0e > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 10% 5% 5%;}
-.elementor-26 .elementor-element.elementor-element-a12cb0e > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-775af22 .elementor-heading-title {color: #9a1b26;font-family: "Aileron Black",Sans-serif;font-size: 20px;font-weight: bold;}
-.elementor-26 .elementor-element.elementor-element-7a64975 {color: #54595f;}
-.elementor-26 .elementor-element.elementor-element-7a0312e .elementor-text-editor {text-align: center;}
-.elementor-26 .elementor-element.elementor-element-7a0312e {color: #9a1b26;}
-.elementor-26 .elementor-element.elementor-element-567c4ea .elementor-text-editor {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-567c4ea {color: #e93a43;font-style: italic;}
-.elementor-26 .elementor-element.elementor-element-2facf23 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0%;margin-bottom: 0%;padding: 40px 40px 40px 40px;}
-.elementor-26 .elementor-element.elementor-element-2facf23 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-d45123c:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-d45123c > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-d45123c > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 10% 5% 5%;}
-.elementor-26 .elementor-element.elementor-element-d45123c > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-b476af8 {color: #54595f;}
-.elementor-26 .elementor-element.elementor-element-0318422 .elementor-text-editor {text-align: center;}
-.elementor-26 .elementor-element.elementor-element-0318422 {color: #9a1b26;}
-.elementor-26 .elementor-element.elementor-element-47b0e9e .elementor-text-editor {text-align: left;}
-.elementor-26 .elementor-element.elementor-element-47b0e9e {color: #e93a43;font-style: italic;}
-.elementor-26 .elementor-element.elementor-element-9d1a092 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 5% 5% 5%;}
-.elementor-26 .elementor-element.elementor-element-9d1a092 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-83d559d {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
-.elementor-26 .elementor-element.elementor-element-83d559d > .elementor-widget-container {padding: 0% 20% 0% 20%;}
-.elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-52a0bac.elementor-column .elementor-column-wrap {align-items: flex-end;}
-.elementor-26 .elementor-element.elementor-element-52a0bac.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: flex-end;align-items: flex-end;}
-.elementor-26 .elementor-element.elementor-element-39f0976 .elementor-spacer-inner {height: 75px;}
-.elementor-26 .elementor-element.elementor-element-d8a8d44 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
-.elementor-26 .elementor-element.elementor-element-d8a8d44 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
-.elementor-26 .elementor-element.elementor-element-a961141:not(.elementor-motion-effects-element-type-background), .elementor-26 .elementor-element.elementor-element-a961141 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-a961141 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
-.elementor-26 .elementor-element.elementor-element-a961141 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-26 .elementor-element.elementor-element-21ba1d7 .eael-dual-header {background-color: #9a1b26;}
-.elementor-26 .elementor-element.elementor-element-21ba1d7 .eael-dual-header i {font-size: 36px;color: #9a1b26;}
-.elementor-26 .elementor-element.elementor-element-21ba1d7 .eael-dual-header img {height: 36px;width: 36px;}
-.elementor-26 .elementor-element.elementor-element-21ba1d7 .eael-dual-header .title {color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-21ba1d7 .eael-dual-header .title span.lead {color: #fff;}
-.elementor-26 .elementor-element.elementor-element-21ba1d7 .eael-dual-header .title, .elementor-26 .elementor-element.elementor-element-21ba1d7 .eael-dual-header .title span {font-family: "Riccione Serial Heavy",Sans-serif;font-size: 20px;}
-.elementor-26 .elementor-element.elementor-element-21ba1d7 .eael-dual-header .subtext {color: #4d4d4d;}
-.elementor-26 .elementor-element.elementor-element-21ba1d7 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
-.elementor-26 .elementor-element.elementor-element-d7a9a80 .eael-dual-header {background-color: #9a1b26;}
-.elementor-26 .elementor-element.elementor-element-d7a9a80 .eael-dual-header i {font-size: 36px;color: #4d4d4d;}
-.elementor-26 .elementor-element.elementor-element-d7a9a80 .eael-dual-header img {height: 36px;width: 36px;}
-.elementor-26 .elementor-element.elementor-element-d7a9a80 .eael-dual-header .title {color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-d7a9a80 .eael-dual-header .title span.lead {color: #fff;}
-.elementor-26 .elementor-element.elementor-element-d7a9a80 .eael-dual-header .title, .elementor-26 .elementor-element.elementor-element-d7a9a80 .eael-dual-header .title span {font-family: "Riccione Serial Heavy",Sans-serif;font-size: 20px;}
-.elementor-26 .elementor-element.elementor-element-d7a9a80 .eael-dual-header .subtext {color: #4d4d4d;}
-.elementor-26 .elementor-element.elementor-element-d7a9a80 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+.elementor-26 .elementor-element.elementor-element-0183730 {color: #e93a43;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-0183730 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-26 .elementor-element.elementor-element-244d1b4 {padding: 5% 5% 5% 5%;}
+.elementor-26 .elementor-element.elementor-element-1dfa20b > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
+.elementor-26 .elementor-element.elementor-element-df4eb9f {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-df4eb9f > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-86e4ad9.elementor-column .elementor-column-wrap {align-items: center;}
+.elementor-26 .elementor-element.elementor-element-86e4ad9.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-26 .elementor-element.elementor-element-86e4ad9 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
+.elementor-26 .elementor-element.elementor-element-5cd73c5 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
+.elementor-26 .elementor-element.elementor-element-5cd73c5 > .elementor-element-populated {margin: 0% 0% 0% 0%;}
+.elementor-26 .elementor-element.elementor-element-0a92d5a {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-0a92d5a > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-26 .elementor-element.elementor-element-9a92079 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0%;margin-bottom: 0%;padding: 40px 40px 40px 40px;}
+.elementor-26 .elementor-element.elementor-element-9a92079 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-0c5c3f3:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-0c5c3f3 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-0c5c3f3 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 2em 2em 2em 2em;}
+.elementor-26 .elementor-element.elementor-element-0c5c3f3 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-ea7ad73 {text-align: center;}
+.elementor-26 .elementor-element.elementor-element-ea7ad73 .elementor-heading-title {color: #9a1b26;font-family: "Aileron Black",Sans-serif;font-size: 20px;font-weight: bold;}
+.elementor-26 .elementor-element.elementor-element-337741b .elementor-text-editor {text-align: center;}
+.elementor-26 .elementor-element.elementor-element-337741b {color: #c33f3c;}
+.elementor-26 .elementor-element.elementor-element-13c4a50 .elementor-text-editor {text-align: center;}
+.elementor-26 .elementor-element.elementor-element-13c4a50 {color: #9a1b26;}
+.elementor-26 .elementor-element.elementor-element-019a9c0 .elementor-text-editor {text-align: left;}
+.elementor-26 .elementor-element.elementor-element-019a9c0 {color: #c33f3c;font-style: italic;}
+.elementor-26 .elementor-element.elementor-element-3122076 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
+.elementor-26 .elementor-element.elementor-element-802e086 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-802e086 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-26 .elementor-element.elementor-element-456fb3e > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-26 .elementor-element.elementor-element-456fb3e > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-cac7a55 .elementor-spacer-inner {height: 30px;}
+.elementor-26 .elementor-element.elementor-element-34dcda1 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-34dcda1 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-5c0231c.elementor-column .elementor-column-wrap {align-items: flex-start;}
+.elementor-26 .elementor-element.elementor-element-5c0231c.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: flex-start;align-items: flex-start;}
+.elementor-26 .elementor-element.elementor-element-5c0231c:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-5c0231c > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-5c0231c > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 10px 50px 10px 50px;}
+.elementor-26 .elementor-element.elementor-element-5c0231c > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-0b6846c .elementor-spacer-inner {height: 30px;}
+.elementor-26 .elementor-element.elementor-element-1abf7ce .elementor-text-editor {text-align: center;}
+.elementor-26 .elementor-element.elementor-element-1abf7ce {color: #9a1b26;}
+.elementor-26 .elementor-element.elementor-element-15c4f98 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-15c4f98 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-5779b11.elementor-column .elementor-column-wrap {align-items: flex-start;}
+.elementor-26 .elementor-element.elementor-element-5779b11.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: flex-start;align-items: flex-start;}
+.elementor-26 .elementor-element.elementor-element-5779b11:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-5779b11 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-5779b11 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 10px 50px 10px 50px;}
+.elementor-26 .elementor-element.elementor-element-5779b11 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-b6e917e .elementor-text-editor {text-align: center;}
+.elementor-26 .elementor-element.elementor-element-b6e917e {color: #9a1b26;}
+.elementor-26 .elementor-element.elementor-element-64d2fe2 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-64d2fe2 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-4e57544.elementor-column .elementor-column-wrap {align-items: flex-start;}
+.elementor-26 .elementor-element.elementor-element-4e57544.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: flex-start;align-items: flex-start;}
+.elementor-26 .elementor-element.elementor-element-4e57544:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-4e57544 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-4e57544 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 10px 50px 10px 50px;}
+.elementor-26 .elementor-element.elementor-element-4e57544 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-c9e40fc .elementor-text-editor {text-align: center;}
+.elementor-26 .elementor-element.elementor-element-c9e40fc {color: #9a1b26;}
+.elementor-26 .elementor-element.elementor-element-960159e {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-960159e > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-b9b9336.elementor-column .elementor-column-wrap {align-items: flex-start;}
+.elementor-26 .elementor-element.elementor-element-b9b9336.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: flex-start;align-items: flex-start;}
+.elementor-26 .elementor-element.elementor-element-b9b9336:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-b9b9336 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-b9b9336 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 10px 50px 10px 50px;}
+.elementor-26 .elementor-element.elementor-element-b9b9336 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-cc5c01c .elementor-text-editor {text-align: center;}
+.elementor-26 .elementor-element.elementor-element-cc5c01c {color: #9a1b26;}
+.elementor-26 .elementor-element.elementor-element-e30b9c2 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-e30b9c2 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-26 .elementor-element.elementor-element-8c7743f {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-8c7743f > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-d46acaf.elementor-column .elementor-column-wrap {align-items: center;}
+.elementor-26 .elementor-element.elementor-element-d46acaf.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-26 .elementor-element.elementor-element-d46acaf > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
+.elementor-26 .elementor-element.elementor-element-d46acaf > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-26 .elementor-element.elementor-element-d46acaf > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-788a435 {text-align: left;}
+.elementor-26 .elementor-element.elementor-element-a4b9541 {text-align: left;}
+.elementor-26 .elementor-element.elementor-element-074f31b {text-align: left;}
+.elementor-26 .elementor-element.elementor-element-892d065 {text-align: left;}
+.elementor-26 .elementor-element.elementor-element-f1e596f {text-align: left;}
+.elementor-26 .elementor-element.elementor-element-3fa6b68 {text-align: left;}
+.elementor-26 .elementor-element.elementor-element-55ce9b5 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-55ce9b5 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-26 .elementor-element.elementor-element-10c8ff0 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0%;margin-bottom: 0%;padding: 40px 40px 40px 40px;}
+.elementor-26 .elementor-element.elementor-element-10c8ff0 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-a9c393d:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-a9c393d > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-a9c393d > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 10% 5% 5%;}
+.elementor-26 .elementor-element.elementor-element-a9c393d > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-ef425ca .elementor-heading-title {color: #9a1b26;font-family: "Aileron Black",Sans-serif;font-size: 20px;font-weight: bold;}
+.elementor-26 .elementor-element.elementor-element-a717ddc {color: #c33f3c;}
+.elementor-26 .elementor-element.elementor-element-3a1a98e .elementor-text-editor {text-align: center;}
+.elementor-26 .elementor-element.elementor-element-3a1a98e {color: #9a1b26;}
+.elementor-26 .elementor-element.elementor-element-10237f1 .elementor-text-editor {text-align: left;}
+.elementor-26 .elementor-element.elementor-element-10237f1 {color: #c33f3c;font-style: italic;}
+.elementor-26 .elementor-element.elementor-element-f00f6db {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0%;margin-bottom: 0%;padding: 40px 40px 40px 40px;}
+.elementor-26 .elementor-element.elementor-element-f00f6db > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-0adb05d:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-0adb05d > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-0adb05d > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 10% 5% 5%;}
+.elementor-26 .elementor-element.elementor-element-0adb05d > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-053a4ff .elementor-heading-title {color: #9a1b26;font-family: "Aileron Black",Sans-serif;font-size: 20px;font-weight: bold;}
+.elementor-26 .elementor-element.elementor-element-b5364f7 {color: #c33f3c;}
+.elementor-26 .elementor-element.elementor-element-19fae15 .elementor-text-editor {text-align: center;}
+.elementor-26 .elementor-element.elementor-element-19fae15 {color: #9a1b26;}
+.elementor-26 .elementor-element.elementor-element-bbd082b {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0%;margin-bottom: 0%;padding: 40px 40px 40px 40px;}
+.elementor-26 .elementor-element.elementor-element-bbd082b > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-fdbf757:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-fdbf757 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-fdbf757 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 10% 5% 5%;}
+.elementor-26 .elementor-element.elementor-element-fdbf757 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-e1a64f4 .elementor-heading-title {color: #9a1b26;font-family: "Aileron Black",Sans-serif;font-size: 20px;font-weight: bold;}
+.elementor-26 .elementor-element.elementor-element-88cb3f2 {color: #c33f3c;}
+.elementor-26 .elementor-element.elementor-element-e23f4f1 .elementor-text-editor {text-align: center;}
+.elementor-26 .elementor-element.elementor-element-e23f4f1 {color: #9a1b26;}
+.elementor-26 .elementor-element.elementor-element-f143333 .elementor-text-editor {text-align: left;}
+.elementor-26 .elementor-element.elementor-element-f143333 {color: #c33f3c;font-style: italic;}
+.elementor-26 .elementor-element.elementor-element-52a6068 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0%;margin-bottom: 0%;padding: 40px 40px 40px 40px;}
+.elementor-26 .elementor-element.elementor-element-52a6068 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-0fe1755:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-26 .elementor-element.elementor-element-0fe1755 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-0fe1755 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 10% 5% 5%;}
+.elementor-26 .elementor-element.elementor-element-0fe1755 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-f05ecf8 {color: #c33f3c;}
+.elementor-26 .elementor-element.elementor-element-618994b .elementor-text-editor {text-align: center;}
+.elementor-26 .elementor-element.elementor-element-618994b {color: #9a1b26;}
+.elementor-26 .elementor-element.elementor-element-5de8a7e {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5% 5% 5% 5%;}
+.elementor-26 .elementor-element.elementor-element-5de8a7e > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-bd523ff {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-bd523ff > .elementor-widget-container {padding: 0% 20% 0% 20%;}
+.elementor-bc-flex-widget .elementor-26 .elementor-element.elementor-element-1970f57.elementor-column .elementor-column-wrap {align-items: flex-start;}
+.elementor-26 .elementor-element.elementor-element-1970f57.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: flex-start;align-items: flex-start;}
+.elementor-26 .elementor-element.elementor-element-0969203 {color: #4c393d;font-family: "Aileron",Sans-serif;font-size: 14px;}
+.elementor-26 .elementor-element.elementor-element-0969203 > .elementor-widget-container {padding: 0% 20% 0% 20%;}
 body.elementor-page-26 h1.entry-title, .elementor-page-title {display: none;}
-@media (max-width:1024px) {.elementor-26 .elementor-element.elementor-element-a9bec3c .elementor-heading-title {font-size: 48px;}
+@media (max-width:1024px) {.elementor-26 .elementor-element.elementor-element-57b123c {margin-top: 0px;margin-bottom: 0px;}
+	.elementor-26 .elementor-element.elementor-element-a9bec3c .elementor-heading-title {font-size: 48px;}
+	.elementor-26 .elementor-element.elementor-element-5cfbb70 .elementor-heading-title {font-size: 48px;}
+	.elementor-26 .elementor-element.elementor-element-70c0052 > .elementor-widget-container {margin: 0px 0px 0px 50px;}
 	.elementor-26 .elementor-element.elementor-element-8485afc .elementor-spacer-inner {height: 150px;}
 	.elementor-26 .elementor-element.elementor-element-d987ca2 .elementor-spacer-inner {height: 100px;}
 	.elementor-26 .elementor-element.elementor-element-528a04a {font-size: 14px;line-height: 1.2em;}
 	.elementor-26 .elementor-element.elementor-element-e73a114 {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-6d82369 {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-d476dd6 {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-6066cb9 {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-eb796ca {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-c070e13 {font-size: 14px;line-height: 1.2em;}
 	.elementor-26 .elementor-element.elementor-element-08ff607 {font-size: 14px;line-height: 1.2em;}
 	.elementor-26 .elementor-element.elementor-element-2d1077a {font-size: 14px;line-height: 1.2em;}
 	.elementor-26 .elementor-element.elementor-element-7bde692 {font-size: 14px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-0c0613a {font-size: 14px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-677eb8f {font-size: 14px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-e6b61bf {font-size: 14px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-0103969 {font-size: 14px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-c638dd0 {font-size: 14px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-592dee6 {font-size: 14px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-9f3148c {font-size: 14px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-2b3d9f1 {font-size: 14px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-51d89c3 {font-size: 14px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-10f52c8 {font-size: 14px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-4f73058 .elementor-heading-title {font-size: 16px;}
-	.elementor-26 .elementor-element.elementor-element-876512d .elementor-heading-title {font-size: 16px;}
-	.elementor-26 .elementor-element.elementor-element-775af22 .elementor-heading-title {font-size: 16px;}
-	.elementor-26 .elementor-element.elementor-element-83d559d {font-size: 14px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-d8a8d44 {font-size: 14px;line-height: 1.2em;}}
-@media (max-width:767px) {.elementor-26 .elementor-element.elementor-element-a9bec3c .elementor-heading-title {font-size: 24px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-0183730 {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-df4eb9f {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-0a92d5a {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-ea7ad73 .elementor-heading-title {font-size: 16px;}
+	.elementor-26 .elementor-element.elementor-element-802e086 {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-34dcda1 {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-15c4f98 {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-64d2fe2 {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-960159e {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-e30b9c2 {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-8c7743f {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-55ce9b5 {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-ef425ca .elementor-heading-title {font-size: 16px;}
+	.elementor-26 .elementor-element.elementor-element-053a4ff .elementor-heading-title {font-size: 16px;}
+	.elementor-26 .elementor-element.elementor-element-e1a64f4 .elementor-heading-title {font-size: 16px;}
+	.elementor-26 .elementor-element.elementor-element-bd523ff {font-size: 14px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-0969203 {font-size: 14px;line-height: 1.2em;}}
+@media (max-width:767px) {.elementor-26 .elementor-element.elementor-element-57b123c {margin-top: 0px;margin-bottom: 0px;}
+	.elementor-26 .elementor-element.elementor-element-a9bec3c .elementor-heading-title {font-size: 24px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-5cfbb70 .elementor-heading-title {font-size: 24px;line-height: 1.2em;}
 	.elementor-26 .elementor-element.elementor-element-70c0052 .elementor-heading-title {font-size: 16px;}
-	.elementor-26 .elementor-element.elementor-element-006a949 .elementor-heading-title {font-size: 26px;}
-	.elementor-26 .elementor-element.elementor-element-7e47eaa {margin-top: -12px;margin-bottom: 0px;}
-	.elementor-26 .elementor-element.elementor-element-e2dce5d > .elementor-widget-container {padding: 0% 5% 5% 5%;}
-	.elementor-26 .elementor-element.elementor-element-73f2613 > .elementor-widget-container {padding: 5% 5% 5% 5%;}
+	.elementor-26 .elementor-element.elementor-element-70c0052 > .elementor-widget-container {margin: 0px 0px 0px 25px;padding: 0px 0px 0px 0px;}
 	.elementor-26 .elementor-element.elementor-element-24ae5ee {text-align: center;}
 	.elementor-26 .elementor-element.elementor-element-24ae5ee .elementor-heading-title {font-size: 26px;line-height: 1.1em;}
 	.elementor-26 .elementor-element.elementor-element-24ae5ee > .elementor-widget-container {margin: 0% 0% 0% 0%;padding: 5% 0% 5% 0%;}
@@ -418,10 +431,14 @@ body.elementor-page-26 h1.entry-title, .elementor-page-title {display: none;}
 	.elementor-26 .elementor-element.elementor-element-2f5f4f2 > .elementor-widget-container {margin: 0% 0% 0% 0%;padding: 3% 0% 3% 0%;}
 	.elementor-26 .elementor-element.elementor-element-50052aa .elementor-divider {padding-top: 10px;padding-bottom: 10px;}
 	.elementor-26 .elementor-element.elementor-element-3e8b956 > .elementor-widget-container {margin: 0% 0% 0% 0%;padding: 3% 0% 3% 0%;}
+	.elementor-26 .elementor-element.elementor-element-006a949 .elementor-heading-title {font-size: 26px;}
+	.elementor-26 .elementor-element.elementor-element-7e47eaa {margin-top: -12px;margin-bottom: 0px;}
+	.elementor-26 .elementor-element.elementor-element-e2dce5d > .elementor-widget-container {padding: 0% 5% 5% 5%;}
+	.elementor-26 .elementor-element.elementor-element-73f2613 > .elementor-widget-container {padding: 5% 5% 5% 5%;}
+	.elementor-26 .elementor-element.elementor-element-db6c1be {padding: 0px 0px 0px 0px;}
 	.elementor-26 .elementor-element.elementor-element-505a1f5 {text-align: center;}
 	.elementor-26 .elementor-element.elementor-element-505a1f5 .elementor-heading-title {font-size: 26px;}
 	.elementor-26 .elementor-element.elementor-element-505a1f5 > .elementor-widget-container {margin: 0% 0% 0% 0%;}
-	.elementor-26 .elementor-element.elementor-element-db6c1be {padding: 0px 0px 0px 0px;}
 	.elementor-26 .elementor-element.elementor-element-8485afc .elementor-spacer-inner {height: 70px;}
 	.elementor-26 .elementor-element.elementor-element-0654af5 {text-align: center;}
 	.elementor-26 .elementor-element.elementor-element-0654af5 .elementor-heading-title {font-size: 26px;}
@@ -431,53 +448,73 @@ body.elementor-page-26 h1.entry-title, .elementor-page-title {display: none;}
 	.elementor-26 .elementor-element.elementor-element-a01f23d {margin-top: 0px;margin-bottom: 0px;padding: 0px 0px 0px 0px;}
 	.elementor-26 .elementor-element.elementor-element-964ed69 > .elementor-element-populated {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
 	.elementor-26 .elementor-element.elementor-element-528a04a > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-fa0143e:not(.elementor-motion-effects-element-type-background), .elementor-26 .elementor-element.elementor-element-fa0143e > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-position: center center;}
 	.elementor-26 .elementor-element.elementor-element-e73a114 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-6d82369 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-d476dd6 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-6066cb9 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-eb796ca > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-c070e13 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
 	.elementor-26 .elementor-element.elementor-element-08ff607 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
 	.elementor-26 .elementor-element.elementor-element-61c5ab7 {padding: 0px 0px 0px 0px;}
+	.elementor-26 .elementor-element.elementor-element-26113ab:not(.elementor-motion-effects-element-type-background), .elementor-26 .elementor-element.elementor-element-26113ab > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-position: center center;}
 	.elementor-26 .elementor-element.elementor-element-2d1077a > .elementor-widget-container {padding: 0% 5% 0% 5%;}
 	.elementor-26 .elementor-element.elementor-element-7bde692 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
-	.elementor-26 .elementor-element.elementor-element-0c0613a > .elementor-widget-container {padding: 0% 5% 0% 5%;}
-	.elementor-26 .elementor-element.elementor-element-695e4da > .elementor-element-populated {margin: 0px 0px 0px 0px;}
-	.elementor-26 .elementor-element.elementor-element-677eb8f > .elementor-widget-container {padding: 0% 5% 0% 5%;}
-	.elementor-26 .elementor-element.elementor-element-f5227c5 {padding: 0px 0px 0px 0px;}
-	.elementor-26 .elementor-element.elementor-element-e6b61bf > .elementor-widget-container {padding: 0% 5% 0% 5%;}
-	.elementor-26 .elementor-element.elementor-element-0103969 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
-	.elementor-26 .elementor-element.elementor-element-c638dd0 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
-	.elementor-26 .elementor-element.elementor-element-592dee6 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
-	.elementor-26 .elementor-element.elementor-element-9f3148c > .elementor-widget-container {padding: 0% 5% 0% 5%;}
-	.elementor-26 .elementor-element.elementor-element-2b3d9f1 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
-	.elementor-26 .elementor-element.elementor-element-51d89c3 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
-	.elementor-26 .elementor-element.elementor-element-10f52c8 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
-	.elementor-26 .elementor-element.elementor-element-7c498fc {margin-top: 0px;margin-bottom: 0px;padding: 5% 0% 5% 0%;}
-	.elementor-26 .elementor-element.elementor-element-4f73058 {text-align: left;}
-	.elementor-26 .elementor-element.elementor-element-4f73058 .elementor-heading-title {font-size: 20px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-5244e20 {margin-top: 0px;margin-bottom: 0px;padding: 5% 0% 5% 0%;}
-	.elementor-26 .elementor-element.elementor-element-876512d {text-align: left;}
-	.elementor-26 .elementor-element.elementor-element-876512d .elementor-heading-title {font-size: 20px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-c17a926 {margin-top: 0px;margin-bottom: 0px;padding: 5% 0% 5% 0%;}
-	.elementor-26 .elementor-element.elementor-element-775af22 {text-align: left;}
-	.elementor-26 .elementor-element.elementor-element-775af22 .elementor-heading-title {font-size: 20px;line-height: 1.2em;}
-	.elementor-26 .elementor-element.elementor-element-2facf23 {margin-top: 0px;margin-bottom: 0px;padding: 5% 0% 5% 0%;}
-	.elementor-26 .elementor-element.elementor-element-83d559d > .elementor-widget-container {padding: 0% 5% 0% 5%;}
-	.elementor-26 .elementor-element.elementor-element-39f0976 .elementor-spacer-inner {height: 20px;}
-	.elementor-26 .elementor-element.elementor-element-d8a8d44 > .elementor-widget-container {padding: 0% 5% 0% 5%;}}
+	.elementor-26 .elementor-element.elementor-element-0183730 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-df4eb9f > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-5cd73c5 > .elementor-element-populated {margin: 0px 0px 0px 0px;}
+	.elementor-26 .elementor-element.elementor-element-0a92d5a > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-9a92079 {padding: 0px 0px 0px 0px;}
+	.elementor-26 .elementor-element.elementor-element-ea7ad73 {text-align: left;}
+	.elementor-26 .elementor-element.elementor-element-ea7ad73 .elementor-heading-title {font-size: 20px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-802e086 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-34dcda1 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-15c4f98 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-64d2fe2 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-960159e > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-e30b9c2 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-8c7743f > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-55ce9b5 > .elementor-widget-container {padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-10c8ff0 {margin-top: 0px;margin-bottom: 0px;padding: 5% 0% 5% 0%;}
+	.elementor-26 .elementor-element.elementor-element-ef425ca {text-align: left;}
+	.elementor-26 .elementor-element.elementor-element-ef425ca .elementor-heading-title {font-size: 20px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-f00f6db {margin-top: 0px;margin-bottom: 0px;padding: 5% 0% 5% 0%;}
+	.elementor-26 .elementor-element.elementor-element-053a4ff {text-align: left;}
+	.elementor-26 .elementor-element.elementor-element-053a4ff .elementor-heading-title {font-size: 20px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-bbd082b {margin-top: 0px;margin-bottom: 0px;padding: 5% 0% 5% 0%;}
+	.elementor-26 .elementor-element.elementor-element-e1a64f4 {text-align: left;}
+	.elementor-26 .elementor-element.elementor-element-e1a64f4 .elementor-heading-title {font-size: 20px;line-height: 1.2em;}
+	.elementor-26 .elementor-element.elementor-element-52a6068 {margin-top: 0px;margin-bottom: 0px;padding: 5% 0% 5% 0%;}
+	.elementor-26 .elementor-element.elementor-element-bd523ff > .elementor-widget-container {margin: 0px 0px 50px 0px;padding: 0% 5% 0% 5%;}
+	.elementor-26 .elementor-element.elementor-element-0969203 > .elementor-widget-container {padding: 0% 5% 0% 5%;}}
 @media (min-width:768px) {.elementor-26 .elementor-element.elementor-element-7c27d3d {width: 40.024%;}
 	.elementor-26 .elementor-element.elementor-element-964ed69 {width: 59.983%;}
 	.elementor-26 .elementor-element.elementor-element-3952dd1 {width: 39.981%;}
 	.elementor-26 .elementor-element.elementor-element-bfe3ade {width: 60.002%;}
-	.elementor-26 .elementor-element.elementor-element-11acc18 {width: 45.109%;}
-	.elementor-26 .elementor-element.elementor-element-78cf849 {width: 54.874%;}
-	.elementor-26 .elementor-element.elementor-element-0a81169 {width: 44.983%;}
-	.elementor-26 .elementor-element.elementor-element-39764de {width: 55%;}
-	.elementor-26 .elementor-element.elementor-element-a0db9fb {width: 44.983%;}
-	.elementor-26 .elementor-element.elementor-element-fa8f2a0 {width: 55%;}
-	.elementor-26 .elementor-element.elementor-element-5d4e8d0 {width: 44.983%;}
-	.elementor-26 .elementor-element.elementor-element-ce96c61 {width: 55%;}
-	.elementor-26 .elementor-element.elementor-element-2d06b60 {width: 44.983%;}
-	.elementor-26 .elementor-element.elementor-element-8ff38b0 {width: 55%;}}
+	.elementor-26 .elementor-element.elementor-element-8e1a42f {width: 45.109%;}
+	.elementor-26 .elementor-element.elementor-element-5c0231c {width: 54.874%;}
+	.elementor-26 .elementor-element.elementor-element-ca75659 {width: 45.109%;}
+	.elementor-26 .elementor-element.elementor-element-5779b11 {width: 54.874%;}
+	.elementor-26 .elementor-element.elementor-element-0f6fad8 {width: 45.109%;}
+	.elementor-26 .elementor-element.elementor-element-4e57544 {width: 54.874%;}
+	.elementor-26 .elementor-element.elementor-element-984dd75 {width: 45.109%;}
+	.elementor-26 .elementor-element.elementor-element-b9b9336 {width: 54.874%;}
+	.elementor-26 .elementor-element.elementor-element-220c536 {width: 44.983%;}
+	.elementor-26 .elementor-element.elementor-element-d3f1e15 {width: 55%;}}
 @media (max-width:1024px) and (min-width:768px) {.elementor-26 .elementor-element.elementor-element-7c27d3d {width: 40%;}
 	.elementor-26 .elementor-element.elementor-element-964ed69 {width: 60%;}}
 .elementor-26 .elementor-element.elementor-element-a9bec3c tbg {background-color: #e93a43;color: #faf5eb;padding-left: 5px;padding-right: 5px;}
+.elementor-26 .elementor-element.elementor-element-a9bec3c span:before {content: "“";font-family: "Oswald",sans-serif;font-weight: 700;font-size: 70px;line-height: 10px;vertical-align: bottom;color: rgba(0,0,0,0);padding: 15px;}
+.elementor-26 .elementor-element.elementor-element-a9bec3c h1:before {content: "“";}
+.elementor-26 .elementor-element.elementor-element-a9bec3c h1:after {content: "”";}
+.elementor-26 .elementor-element.elementor-element-a9bec3c h1:before, .elementor-26 .elementor-element.elementor-element-a9bec3c h1:after {font-family: "Oswald",sans-serif;font-weight: 700;color: rgba(0,0,0,.2);font-size: 110px;line-height: 10px;vertical-align: bottom;padding: 5px;}
+@media only screen and (max-width: 768px) {.elementor-26 .elementor-element.elementor-element-a9bec3c h1:before, .elementor-26 .elementor-element.elementor-element-a9bec3c h1:after {font-family: "Oswald",sans-serif;font-weight: 700;color: rgba(0,0,0,.2);font-size: 100px;line-height: 10px;vertical-align: bottom;}
+	.elementor-26 .elementor-element.elementor-element-a9bec3c span:before {content: "“";font-family: "Oswald",sans-serif;font-weight: 700;font-size: 40px;line-height: 10px;vertical-align: bottom;color: rgba(0,0,0,0);}}
+.elementor-26 .elementor-element.elementor-element-5cfbb70 tbg {background-color: #e93a43;color: #faf5eb;padding-left: 5px;padding-right: 5px;}
+.elementor-26 .elementor-element.elementor-element-5cfbb70 span:before {content: "“";font-family: "Oswald",sans-serif;font-weight: 700;font-size: 2em;line-height: 10px;vertical-align: bottom;color: rgba(0,0,0,0);}
+.elementor-26 .elementor-element.elementor-element-5cfbb70 h1:before {content: "“";}
+.elementor-26 .elementor-element.elementor-element-5cfbb70 h1:after {content: "”";}
+.elementor-26 .elementor-element.elementor-element-5cfbb70 h1:before, .elementor-26 .elementor-element.elementor-element-5cfbb70 h1:after {font-family: "Oswald",sans-serif;font-weight: 700;color: rgba(0,0,0,.2);font-size: 2em;line-height: 10px;vertical-align: bottom;padding: 5px;}
 .elementor-26 .elementor-element.elementor-element-4615bd2 table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
 .elementor-26 .elementor-element.elementor-element-4615bd2 table td {background-color: #faf5eb;}
 .elementor-26 .elementor-element.elementor-element-4615bd2 table td {border: 2px solid black;}
@@ -485,120 +522,123 @@ body.elementor-page-26 h1.entry-title, .elementor-page-title {display: none;}
 .elementor-26 .elementor-element.elementor-element-4615bd2 table tr td:first-child {border-left: 0;}
 .elementor-26 .elementor-element.elementor-element-4615bd2 table tr:last-child td {border-bottom: 0;}
 .elementor-26 .elementor-element.elementor-element-4615bd2 table tr td:last-child {border-right: 0;}
-.elementor-26 .elementor-element.elementor-element-4615bd2 table .manager {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 18px;width: 32%;}
+.elementor-26 .elementor-element.elementor-element-4615bd2 table .manager {color: #4c393d;font-weight: bold;font-family: "Riccione Serial";font-size: 18px;width: 32%;}
 .elementor-26 .elementor-element.elementor-element-4615bd2 table .role {font-size: 18px;}
 @media only screen and (max-width: 600px) {.elementor-26 .elementor-element.elementor-element-4615bd2 table .manager {font-size: 10px;padding-left: 10px;padding-right: 10px;}
 	.elementor-26 .elementor-element.elementor-element-4615bd2 table .role {font-size: 10px;}}
 .elementor-26 .elementor-element.elementor-element-1cf5a13 table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
 .elementor-26 .elementor-element.elementor-element-1cf5a13 table td {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-1cf5a13 table td {border: 2px solid black;}
+.elementor-26 .elementor-element.elementor-element-1cf5a13 table td {border: 2px solid #f47b67;}
 .elementor-26 .elementor-element.elementor-element-1cf5a13 table tr:first-child td {border-top: 0;}
 .elementor-26 .elementor-element.elementor-element-1cf5a13 table tr td:first-child {border-left: 0;}
 .elementor-26 .elementor-element.elementor-element-1cf5a13 table tr:last-child td {border-bottom: 0;}
 .elementor-26 .elementor-element.elementor-element-1cf5a13 table tr td:last-child {border-right: 0;}
 .elementor-26 .elementor-element.elementor-element-1cf5a13 table .manager {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 18px;width: 32%;}
-.elementor-26 .elementor-element.elementor-element-1cf5a13 table .role {font-size: 18px;}
-@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-1cf5a13 table .manager {font-size: 10px;padding-left: 10px;padding-right: 10px;}
+.elementor-26 .elementor-element.elementor-element-1cf5a13 table .role {font-size: 18px;color: #f47b67;}
+@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-1cf5a13 table .manager {font-size: 10px;padding-left: 10px;padding-right: 10px;color: #f47b67;}
 	.elementor-26 .elementor-element.elementor-element-1cf5a13 table .role {font-size: 10px;}}
-.elementor-26 .elementor-element.elementor-element-033318e table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
-.elementor-26 .elementor-element.elementor-element-033318e table td {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-033318e table td {border: 2px solid black;}
-.elementor-26 .elementor-element.elementor-element-033318e table tr:first-child td {border-top: 0;}
-.elementor-26 .elementor-element.elementor-element-033318e table tr td:first-child {border-left: 0;}
-.elementor-26 .elementor-element.elementor-element-033318e table tr:last-child td {border-bottom: 0;}
-.elementor-26 .elementor-element.elementor-element-033318e table tr td:last-child {border-right: 0;}
-.elementor-26 .elementor-element.elementor-element-033318e table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
-.elementor-26 .elementor-element.elementor-element-033318e table .role {font-size: 14px;}
-@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-033318e table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
-	.elementor-26 .elementor-element.elementor-element-033318e table td {font-size: 10px;padding-left: 5px;padding-right: 5px;overflow-wrap: break-word;}}
-.elementor-26 .elementor-element.elementor-element-4167f66 table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
-.elementor-26 .elementor-element.elementor-element-4167f66 table td {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-4167f66 table td {border: 2px solid black;}
-.elementor-26 .elementor-element.elementor-element-4167f66 table tr:first-child td {border-top: 0;}
-.elementor-26 .elementor-element.elementor-element-4167f66 table tr td:first-child {border-left: 0;}
-.elementor-26 .elementor-element.elementor-element-4167f66 table tr:last-child td {border-bottom: 0;}
-.elementor-26 .elementor-element.elementor-element-4167f66 table tr td:last-child {border-right: 0;}
-.elementor-26 .elementor-element.elementor-element-4167f66 table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
-.elementor-26 .elementor-element.elementor-element-4167f66 table .role {font-size: 14px;}
-@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-4167f66 table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
-	.elementor-26 .elementor-element.elementor-element-4167f66 table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
-.elementor-26 .elementor-element.elementor-element-fd62960 table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
-.elementor-26 .elementor-element.elementor-element-fd62960 table td {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-fd62960 table td {border: 2px solid black;}
-.elementor-26 .elementor-element.elementor-element-fd62960 table tr:first-child td {border-top: 0;}
-.elementor-26 .elementor-element.elementor-element-fd62960 table tr td:first-child {border-left: 0;}
-.elementor-26 .elementor-element.elementor-element-fd62960 table tr:last-child td {border-bottom: 0;}
-.elementor-26 .elementor-element.elementor-element-fd62960 table tr td:last-child {border-right: 0;}
-.elementor-26 .elementor-element.elementor-element-fd62960 table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
-.elementor-26 .elementor-element.elementor-element-fd62960 table .role {font-size: 14px;}
-@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-fd62960 table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
-	.elementor-26 .elementor-element.elementor-element-fd62960 table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
-.elementor-26 .elementor-element.elementor-element-12c8ab6 table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
-.elementor-26 .elementor-element.elementor-element-12c8ab6 table td {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-12c8ab6 table td {border: 2px solid black;}
-.elementor-26 .elementor-element.elementor-element-12c8ab6 table tr:first-child td {border-top: 0;}
-.elementor-26 .elementor-element.elementor-element-12c8ab6 table tr td:first-child {border-left: 0;}
-.elementor-26 .elementor-element.elementor-element-12c8ab6 table tr:last-child td {border-bottom: 0;}
-.elementor-26 .elementor-element.elementor-element-12c8ab6 table tr td:last-child {border-right: 0;}
-.elementor-26 .elementor-element.elementor-element-12c8ab6 table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
-.elementor-26 .elementor-element.elementor-element-12c8ab6 table .role {font-size: 14px;}
-@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-12c8ab6 table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
-	.elementor-26 .elementor-element.elementor-element-12c8ab6 table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
-.elementor-26 .elementor-element.elementor-element-869fbda table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
-.elementor-26 .elementor-element.elementor-element-869fbda table td {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-869fbda table td {border: 2px solid black;}
-.elementor-26 .elementor-element.elementor-element-869fbda table tr:first-child td {border-top: 0;}
-.elementor-26 .elementor-element.elementor-element-869fbda table tr td:first-child {border-left: 0;}
-.elementor-26 .elementor-element.elementor-element-869fbda table tr:last-child td {border-bottom: 0;}
-.elementor-26 .elementor-element.elementor-element-869fbda table tr td:last-child {border-right: 0;}
-.elementor-26 .elementor-element.elementor-element-869fbda table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
-.elementor-26 .elementor-element.elementor-element-869fbda table .role {font-size: 14px;}
-@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-869fbda table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
-	.elementor-26 .elementor-element.elementor-element-869fbda table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
-.elementor-26 .elementor-element.elementor-element-d148670 table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
-.elementor-26 .elementor-element.elementor-element-d148670 table td {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-d148670 table td {border: 2px solid black;}
-.elementor-26 .elementor-element.elementor-element-d148670 table tr:first-child td {border-top: 0;}
-.elementor-26 .elementor-element.elementor-element-d148670 table tr td:first-child {border-left: 0;}
-.elementor-26 .elementor-element.elementor-element-d148670 table tr:last-child td {border-bottom: 0;}
-.elementor-26 .elementor-element.elementor-element-d148670 table tr td:last-child {border-right: 0;}
-.elementor-26 .elementor-element.elementor-element-d148670 table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
-.elementor-26 .elementor-element.elementor-element-d148670 table .role {font-size: 14px;}
-@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-d148670 table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
-	.elementor-26 .elementor-element.elementor-element-d148670 table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
-.elementor-26 .elementor-element.elementor-element-b4b35d5 table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
-.elementor-26 .elementor-element.elementor-element-b4b35d5 table td {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-b4b35d5 table td {border: 2px solid black;}
-.elementor-26 .elementor-element.elementor-element-b4b35d5 table tr:first-child td {border-top: 0;}
-.elementor-26 .elementor-element.elementor-element-b4b35d5 table tr td:first-child {border-left: 0;}
-.elementor-26 .elementor-element.elementor-element-b4b35d5 table tr:last-child td {border-bottom: 0;}
-.elementor-26 .elementor-element.elementor-element-b4b35d5 table tr td:last-child {border-right: 0;}
-.elementor-26 .elementor-element.elementor-element-b4b35d5 table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
-.elementor-26 .elementor-element.elementor-element-b4b35d5 table .role {font-size: 14px;}
-@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-b4b35d5 table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
-	.elementor-26 .elementor-element.elementor-element-b4b35d5 table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
-.elementor-26 .elementor-element.elementor-element-7a0312e table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
-.elementor-26 .elementor-element.elementor-element-7a0312e table td {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-7a0312e table td {border: 2px solid black;}
-.elementor-26 .elementor-element.elementor-element-7a0312e table tr:first-child td {border-top: 0;}
-.elementor-26 .elementor-element.elementor-element-7a0312e table tr td:first-child {border-left: 0;}
-.elementor-26 .elementor-element.elementor-element-7a0312e table tr:last-child td {border-bottom: 0;}
-.elementor-26 .elementor-element.elementor-element-7a0312e table tr td:last-child {border-right: 0;}
-.elementor-26 .elementor-element.elementor-element-7a0312e table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
-.elementor-26 .elementor-element.elementor-element-7a0312e table .role {font-size: 14px;}
-@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-7a0312e table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
-	.elementor-26 .elementor-element.elementor-element-7a0312e table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
-.elementor-26 .elementor-element.elementor-element-0318422 table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
-.elementor-26 .elementor-element.elementor-element-0318422 table td {background-color: #faf5eb;}
-.elementor-26 .elementor-element.elementor-element-0318422 table td {border: 2px solid black;}
-.elementor-26 .elementor-element.elementor-element-0318422 table tr:first-child td {border-top: 0;}
-.elementor-26 .elementor-element.elementor-element-0318422 table tr td:first-child {border-left: 0;}
-.elementor-26 .elementor-element.elementor-element-0318422 table tr:last-child td {border-bottom: 0;}
-.elementor-26 .elementor-element.elementor-element-0318422 table tr td:last-child {border-right: 0;}
-.elementor-26 .elementor-element.elementor-element-0318422 table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
-.elementor-26 .elementor-element.elementor-element-0318422 table .role {font-size: 14px;}
-@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-0318422 table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
-	.elementor-26 .elementor-element.elementor-element-0318422 table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
+.elementor-26 .elementor-element.elementor-element-1cf5a13 table thead {background-color: #9a1b26;color: white;}
+.elementor-26 .elementor-element.elementor-element-1cf5a13 table thead .manager {color: white;}
+.elementor-26 .elementor-element.elementor-element-1cf5a13 table thead .role {font-weight: bold;font-family: "Riccione Serial";color: white;}
+.elementor-26 .elementor-element.elementor-element-13c4a50 table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
+.elementor-26 .elementor-element.elementor-element-13c4a50 table td {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-13c4a50 table td {border: 2px solid #f47b67;}
+.elementor-26 .elementor-element.elementor-element-13c4a50 table tr:first-child td {border-top: 0;}
+.elementor-26 .elementor-element.elementor-element-13c4a50 table tr td:first-child {border-left: 0;}
+.elementor-26 .elementor-element.elementor-element-13c4a50 table tr:last-child td {border-bottom: 0;}
+.elementor-26 .elementor-element.elementor-element-13c4a50 table tr td:last-child {border-right: 0;}
+.elementor-26 .elementor-element.elementor-element-13c4a50 table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;text-align: center;}
+.elementor-26 .elementor-element.elementor-element-13c4a50 table .role {font-size: 14px;}
+@media only screen and (max-width: 600px) {.elementor-26 .elementor-element.elementor-element-13c4a50 table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
+	.elementor-26 .elementor-element.elementor-element-13c4a50 table td {font-size: 10px;padding-left: 5px;padding-right: 5px;overflow-wrap: break-word;}}
+.elementor-26 .elementor-element.elementor-element-1abf7ce table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
+.elementor-26 .elementor-element.elementor-element-1abf7ce table td {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-1abf7ce table td {border: 2px solid #f47b67;}
+.elementor-26 .elementor-element.elementor-element-1abf7ce table tr:first-child td {border-top: 0;}
+.elementor-26 .elementor-element.elementor-element-1abf7ce table tr td:first-child {border-left: 0;}
+.elementor-26 .elementor-element.elementor-element-1abf7ce table tr:last-child td {border-bottom: 0;}
+.elementor-26 .elementor-element.elementor-element-1abf7ce table tr td:last-child {border-right: 0;}
+.elementor-26 .elementor-element.elementor-element-1abf7ce table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
+.elementor-26 .elementor-element.elementor-element-1abf7ce table .role {font-size: 14px;}
+@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-1abf7ce table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
+	.elementor-26 .elementor-element.elementor-element-1abf7ce table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
+.elementor-26 .elementor-element.elementor-element-b6e917e table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
+.elementor-26 .elementor-element.elementor-element-b6e917e table td {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-b6e917e table td {border: 2px solid #f47b67;}
+.elementor-26 .elementor-element.elementor-element-b6e917e table tr:first-child td {border-top: 0;}
+.elementor-26 .elementor-element.elementor-element-b6e917e table tr td:first-child {border-left: 0;}
+.elementor-26 .elementor-element.elementor-element-b6e917e table tr:last-child td {border-bottom: 0;}
+.elementor-26 .elementor-element.elementor-element-b6e917e table tr td:last-child {border-right: 0;}
+.elementor-26 .elementor-element.elementor-element-b6e917e table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
+.elementor-26 .elementor-element.elementor-element-b6e917e table .role {font-size: 14px;}
+@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-b6e917e table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
+	.elementor-26 .elementor-element.elementor-element-b6e917e table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
+.elementor-26 .elementor-element.elementor-element-c9e40fc table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
+.elementor-26 .elementor-element.elementor-element-c9e40fc table td {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-c9e40fc table td {border: 2px solid #f47b67;}
+.elementor-26 .elementor-element.elementor-element-c9e40fc table tr:first-child td {border-top: 0;}
+.elementor-26 .elementor-element.elementor-element-c9e40fc table tr td:first-child {border-left: 0;}
+.elementor-26 .elementor-element.elementor-element-c9e40fc table tr:last-child td {border-bottom: 0;}
+.elementor-26 .elementor-element.elementor-element-c9e40fc table tr td:last-child {border-right: 0;}
+.elementor-26 .elementor-element.elementor-element-c9e40fc table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
+.elementor-26 .elementor-element.elementor-element-c9e40fc table .role {font-size: 14px;}
+@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-c9e40fc table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
+	.elementor-26 .elementor-element.elementor-element-c9e40fc table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
+.elementor-26 .elementor-element.elementor-element-cc5c01c table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
+.elementor-26 .elementor-element.elementor-element-cc5c01c table td {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-cc5c01c table td {border: 2px solid #f47b67;}
+.elementor-26 .elementor-element.elementor-element-cc5c01c table tr:first-child td {border-top: 0;}
+.elementor-26 .elementor-element.elementor-element-cc5c01c table tr td:first-child {border-left: 0;}
+.elementor-26 .elementor-element.elementor-element-cc5c01c table tr:last-child td {border-bottom: 0;}
+.elementor-26 .elementor-element.elementor-element-cc5c01c table tr td:last-child {border-right: 0;}
+.elementor-26 .elementor-element.elementor-element-cc5c01c table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
+.elementor-26 .elementor-element.elementor-element-cc5c01c table .role {font-size: 14px;}
+@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-cc5c01c table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
+	.elementor-26 .elementor-element.elementor-element-cc5c01c table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
+.elementor-26 .elementor-element.elementor-element-3a1a98e table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
+.elementor-26 .elementor-element.elementor-element-3a1a98e table td {background-color: #faf5eb;text-align: center;}
+.elementor-26 .elementor-element.elementor-element-3a1a98e table td {border: 2px solid #f47b67;}
+.elementor-26 .elementor-element.elementor-element-3a1a98e table tr:first-child td {border-top: 0;}
+.elementor-26 .elementor-element.elementor-element-3a1a98e table tr td:first-child {border-left: 0;}
+.elementor-26 .elementor-element.elementor-element-3a1a98e table tr:last-child td {border-bottom: 0;}
+.elementor-26 .elementor-element.elementor-element-3a1a98e table tr td:last-child {border-right: 0;}
+.elementor-26 .elementor-element.elementor-element-3a1a98e table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
+.elementor-26 .elementor-element.elementor-element-3a1a98e table .role {font-size: 14px;}
+@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-3a1a98e table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
+	.elementor-26 .elementor-element.elementor-element-3a1a98e table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
+.elementor-26 .elementor-element.elementor-element-19fae15 table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
+.elementor-26 .elementor-element.elementor-element-19fae15 table td {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-19fae15 table td {border: 2px solid #f47b67;text-align: center;}
+.elementor-26 .elementor-element.elementor-element-19fae15 table tr:first-child td {border-top: 0;}
+.elementor-26 .elementor-element.elementor-element-19fae15 table tr td:first-child {border-left: 0;}
+.elementor-26 .elementor-element.elementor-element-19fae15 table tr:last-child td {border-bottom: 0;}
+.elementor-26 .elementor-element.elementor-element-19fae15 table tr td:last-child {border-right: 0;}
+.elementor-26 .elementor-element.elementor-element-19fae15 table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
+.elementor-26 .elementor-element.elementor-element-19fae15 table .role {font-size: 14px;}
+@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-19fae15 table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
+	.elementor-26 .elementor-element.elementor-element-19fae15 table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
+.elementor-26 .elementor-element.elementor-element-e23f4f1 table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
+.elementor-26 .elementor-element.elementor-element-e23f4f1 table td {background-color: #faf5eb;}
+.elementor-26 .elementor-element.elementor-element-e23f4f1 table td {border: 2px solid #f47b67;text-align: center;}
+.elementor-26 .elementor-element.elementor-element-e23f4f1 table tr:first-child td {border-top: 0;}
+.elementor-26 .elementor-element.elementor-element-e23f4f1 table tr td:first-child {border-left: 0;}
+.elementor-26 .elementor-element.elementor-element-e23f4f1 table tr:last-child td {border-bottom: 0;}
+.elementor-26 .elementor-element.elementor-element-e23f4f1 table tr td:last-child {border-right: 0;}
+.elementor-26 .elementor-element.elementor-element-e23f4f1 table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
+.elementor-26 .elementor-element.elementor-element-e23f4f1 table .role {font-size: 14px;}
+@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-e23f4f1 table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
+	.elementor-26 .elementor-element.elementor-element-e23f4f1 table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
+.elementor-26 .elementor-element.elementor-element-618994b table {border-collapse: collapse;background-color: #faf5eb;table-layout: fixed;}
+.elementor-26 .elementor-element.elementor-element-618994b table td {background-color: #faf5eb;text-align: center;}
+.elementor-26 .elementor-element.elementor-element-618994b table td {border: 2px solid #f47b67;}
+.elementor-26 .elementor-element.elementor-element-618994b table tr:first-child td {border-top: 0;}
+.elementor-26 .elementor-element.elementor-element-618994b table tr td:first-child {border-left: 0;}
+.elementor-26 .elementor-element.elementor-element-618994b table tr:last-child td {border-bottom: 0;}
+.elementor-26 .elementor-element.elementor-element-618994b table tr td:last-child {border-right: 0;}
+.elementor-26 .elementor-element.elementor-element-618994b table .head {color: #9a1b26;font-weight: bold;font-family: "Riccione Serial";font-size: 15px;}
+.elementor-26 .elementor-element.elementor-element-618994b table .role {font-size: 14px;}
+@media only screen and (max-width: 415px) {.elementor-26 .elementor-element.elementor-element-618994b table .head {font-size: 10px;padding-left: 5px;padding-right: 5px;}
+	.elementor-26 .elementor-element.elementor-element-618994b table td {font-size: 10px;padding-left: 5px;padding-right: 5px;}}
 @font-face {font-family: "Riccione Serial";font-style: normal;font-weight: 900;font-display: auto;src: url("https://dev-rrhi-ar-2019.sites.techops.ph/annualreport2019/wp-content/uploads/2020/04/riccione-serial-heavy-regular.ttf") format("truetype");}
 @font-face {font-family: "Riccione Serial";font-style: normal;font-weight: normal;font-display: auto;src: url("https://dev-rrhi-ar-2019.sites.techops.ph/annualreport2019/wp-content/uploads/2020/04/Riccione-Serial-Regular.ttf") format("truetype");}
 @font-face {font-family: "Aileron Black";font-style: normal;font-weight: normal;font-display: auto;src: url("https://dev-rrhi-ar-2019.sites.techops.ph/annualreport2019/wp-content/uploads/2020/04/Aileron-Black-webfont.woff") format("woff");}
