@@ -1,7 +1,4 @@
-# rrhi-ar-2019
-
-# RRHI AR 20109
-
+# RRHI AR 2019
 
 ## Instructions for Deployment
 
@@ -11,3 +8,6 @@ Do a search and replace for the URLs.
 - search `github.com/techopsph/rrhi-ar-2019` and replace with `example.com/subfolder`
 
 
+## Reference URLs
+
+https://dev-rrhi-ar-2019.sites.techops.ph/
