@@ -13,3 +13,4 @@ This is served via Github Pages and also via an external Server here:
 
 https://techopsph.github.io/rrhi-ar-2019/
 https://dev-rrhi-ar-2019.sites.techops.ph/
+https://dev-rrhi-ar-2019.sites.techops.ph/annualreport2019
